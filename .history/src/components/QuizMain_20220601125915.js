@@ -30,8 +30,8 @@ export default class Quiz extends Component {
       },
       4: {
         1: "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander",
-        2: "Ist eine Kirche",
-        3: "Ist ein Framework",
+        2: "ein programm zum erstellen von Designes",
+        3: "damit lassen sich state und andere react future benutzen",
       },
     },
     correctAnswers: {

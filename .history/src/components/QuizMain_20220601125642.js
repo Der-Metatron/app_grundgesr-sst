@@ -10,7 +10,6 @@ export default class Quiz extends Component {
       1: 'Was ist React"?',
       2: "Was ist Javascript?",
       3: "Was sind Hooks?",
-      4: "Was ist React-Dom?",
     },
     answers: {
       1: {
@@ -28,17 +27,16 @@ export default class Quiz extends Component {
         2: "ein programm zum erstellen von Designes",
         3: "damit lassen sich state und andere react future benutzen",
       },
-      4: {
-        1: "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander",
-        2: "Ist eine Kirche",
-        3: "Ist ein Framework",
+      3: {
+        1: "eine sprache zum erstellen einer datenbankstrukturen",
+        2: "ein programm zum erstellen von Designes",
+        3: "damit lassen sich state und andere react future benutzen",
       },
     },
     correctAnswers: {
       1: "3",
       2: "2",
       3: "3",
-      4: "1",
     },
     correctAnswer: 0,
     clickedAnswer: 0,
