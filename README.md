@@ -1,4 +1,4 @@
-# app_grundgest
+# app_grundgeeüßt
 
 1- git clone 
 2- npm install (auf verzeichniss achten)
